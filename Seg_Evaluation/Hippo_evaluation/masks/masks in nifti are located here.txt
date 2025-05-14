@@ -1,0 +1,6 @@
+LISA_0001_HF_hippo.nii.gz
+LISA_0002_HF_hippo.nii.gz
+LISA_0003_HF_hippo.nii.gz
+LISA_0004_HF_hippo.nii.gz
+
+and ... 

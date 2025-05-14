@@ -1,0 +1,17 @@
+{
+    "F1_micro": 0.746,
+    "F2_micro": 0.746,
+    "Precision_micro": 0.746,
+    "Recall_micro": 0.746,
+    "Accuracy_micro": 0.746,
+    "F1_macro": 0.458,
+    "F2_macro": 0.459,
+    "Precision_macro": 0.469,
+    "Recall_macro": 0.462,
+    "Accuracy_macro": 0.746,
+    "F1_weighted": 0.725,
+    "F2_weighted": 0.736,
+    "Precision_weighted": 0.719,
+    "Recall_weighted": 0.746,
+    "Accuracy_weighted": 0.746
+}

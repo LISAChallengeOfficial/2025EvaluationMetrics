@@ -1,0 +1,2 @@
+F1_micro,F2_micro,Precision_micro,Recall_micro,Accuracy_micro,F1_macro,F2_macro,Precision_macro,Recall_macro,Accuracy_macro,F1_weighted,F2_weighted,Precision_weighted,Recall_weighted,Accuracy_weighted
+0.746,0.746,0.746,0.746,0.746,0.458,0.459,0.469,0.462,0.746,0.725,0.736,0.719,0.746,0.746
